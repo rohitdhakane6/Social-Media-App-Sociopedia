@@ -1,2 +1,2 @@
-export const BASE_URL="http://localhost:3001"
-// export const BASE_URL="https://sociopedia-backend-git-main-rohitdhakane6.vercel.app/"
+// export const BASE_URL="http://localhost:3001"
+export const BASE_URL="https://social-media-app-sociopedia-dq5lxexoz-rohitdhakane6.vercel.app"
